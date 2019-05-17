@@ -10,3 +10,6 @@ Current Limitations:
     -Currently cannot evaluate any trignometric functions
     -Cannot accept any input with parentheses
     -Only uses power rule to find derivative of f
+
+Credits:
+    http://www.codinghelmet.com/exercises/expression-evaluator -Recursive Arithmetic Expression Solver Code
