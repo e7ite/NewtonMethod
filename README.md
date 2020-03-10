@@ -1,5 +1,5 @@
 # NewtonMethod
-Program which imitates Newton's Method (Idea from Calculus 1)
+Program which imitates Newton's Method (Idea from Calculus 1). Uses my MathFunctionParser library https://github.com/e7ite/MathFunctionParser
 
 Features:
 
