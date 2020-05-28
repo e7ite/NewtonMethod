@@ -1,4 +1,4 @@
-#include "newton.h"
+#include "newton.hpp"
 
 /*Currently only modifies first variable*/
 void ApplyPowerRule(Function &func)

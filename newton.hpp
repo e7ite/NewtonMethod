@@ -1,4 +1,4 @@
-#include "parser.h"
+#include "parser.hpp"
 #include <iostream>
 
 /*Currently only modifies first variable*/
