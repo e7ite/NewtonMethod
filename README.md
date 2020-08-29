@@ -20,4 +20,4 @@ Current Limitations:
 ![Preview](/preview.gif)
 
 Credits:
-    http://www.codinghelmet.com/exercises/expression-evaluator -Recursive Arithmetic Expression Solver Code
+    http://www.codinghelmet.com/exercises/expression-evaluator -Recursive Arithmetic Expression Solving Technique
