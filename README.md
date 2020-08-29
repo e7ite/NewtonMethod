@@ -17,5 +17,7 @@ Current Limitations:
     
     -Only uses power rule to find derivative of f
 
+![Preview](/preview.gif)
+
 Credits:
     http://www.codinghelmet.com/exercises/expression-evaluator -Recursive Arithmetic Expression Solver Code
