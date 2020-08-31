@@ -7,7 +7,7 @@ Features:
     
     -Can take any polynomial and evaluate its closest x-intercept near the user's guess
     
-    -Usually guesses until about 3rd repitition of value, then exits program
+    -Usually guesses until about 3rd repetition of value, then exits program
 
 Current Limitations:
     
